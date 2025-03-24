@@ -1,4 +1,4 @@
-#SUBSCRIBED https://ktmcloud.vip/api/v1/client/subscribe?token=3a5d27d85cc1c4a332e64ae4fba40d9c
+#SUBSCRIBED https://vipcloud.vip/api/v1/client/subscribe?token=3a5d27d85cc1c4a332e64ae4fba40d9c
 mixed-port: 7890
 allow-lan: true
 bind-address: '*'
@@ -18,7 +18,7 @@ dns:
 proxies:
     - { name: '剩余流量：724.84 GB', server: hk1.ktmhyld.com, port: 18385, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: '', type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
     - { name: '距离下次重置剩余：13 天', server: hk1.ktmhyld.com, port: 18385, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: '', type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
-    - { name: 套餐到期：2025-04-07, server: hk1.ktmhyld.com, port: 18385, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: '', type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
+    - { name: 套餐到期：2025, server: hk1.ktmhyld.com, port: 18385, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: '', type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
     - { name: 香港-2-AWS, server: hk1.ktmhyld.com, port: 18385, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: '', type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
     - { name: 新加坡-1-AWS, server: sg1.ktmhyld.com, port: 18383, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: sg1.ktmhyld.com, type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
     - { name: 日本-1-AWS, server: jp1.ktmhyld.com, port: 18385, up-speed: 5000, down-speed: 5000, skip-cert-verify: 1, sni: jp1.ktmhyld.com, type: hysteria2, auth: 97c5fd48-5c47-425a-a862-4965c2f18a47, fast-open: true }
